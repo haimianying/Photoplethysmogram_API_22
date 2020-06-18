@@ -9,7 +9,7 @@
 
 <p align="center">
   
-  <img src="dia.png" width="50%" />
+  <img src="dia.png" width="415px" height="261px" />
   <br/>
   <i>Light absorption analysis via changes in hue value (screenshot of app)</i>
   
