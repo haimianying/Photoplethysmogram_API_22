@@ -1,8 +1,19 @@
 # Diagnosing Atherosclerosis
 
+
 ### Research Paper & Abstract
 * Jump to the [research paper](https://github.com/kaisubr/Photoplethysmogram_API_22/blob/master/RESEARCH%20PAPER.pdf)
 * Jump to [abstract](https://github.com/kaisubr/Photoplethysmogram_API_22#a-cost-efficient-and-reliable-form-for-obtaining-volumetric-measurements-of-the-heart-through-optical-techniques)
+
+----------
+
+<p align="center">
+  
+  <img src="dia.png" width="50%" />
+  <br/>
+  <i>Light absorption analysis via changes in hue value (screenshot of app)</i>
+  
+</p>
 
 ----------
 
@@ -13,3 +24,6 @@ The leading cause of death is heart disease, especially atherosclerosis, the acc
 When a finger is held up to a camera, faint red pulses are noticeable, indicating variations of light absorption through the blood. Quantifying these pulses can help to generate a waveform whose features provide data that can be used to identify abnormalities. Through peak detection, waveform manipulation, and age index calculations, it is possible to determine the severity of atherosclerosis in a patient. By developing a smartphone application that can recognize these abnormalities in light absorption by the blood of a finger, the study aims to determine whether a patient may have atherosclerosis in a more cost-effective and accessible manner. Research in optically obtained volumetric measurements of the heart and its application in diagnosing health disorders will not only create a scientific impact, but also a societal impact, since a more cost-effective form of diagnosis gives more people access to medical technology and prevents deaths caused by cardiovascular disease. 
 
 Developing a smartphone application to accurately diagnose atherosclerosis based on optical measurements can prevent heart attacks and strokes and open doors to cost-effective, accessible medical technology.
+
+#### About
+> A cost-efficient and reliable form for obtaining volumetric measurements of the heart through optical techniques. 2nd in Systems Software DRSEF; Yale Science/Engineering Award.
